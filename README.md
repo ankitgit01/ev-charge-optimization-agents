@@ -26,7 +26,7 @@ The framework operates using three interconnected AI agents:
 ## How to Run
 
 1. **Clone the Repository:**
-   git clone https://github.com/yourusername/ev-dynamic-pricing-ai.git](https://github.com/ankitgit01/ev-charge-optimization-agents.git)
+   git clone https://github.com/ankitgit01/ev-charge-optimization-agents.git
    cd ev-dynamic-pricing-ai
 
 3. **Install Dependencies:**
