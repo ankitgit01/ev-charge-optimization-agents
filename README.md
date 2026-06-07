@@ -26,20 +26,20 @@ The framework operates using three interconnected AI agents:
 ## How to Run
 
 1. **Clone the Repository:**
-   git clone https://github.com/yourusername/ev-dynamic-pricing-ai.git
+   git clone https://github.com/yourusername/ev-dynamic-pricing-ai.git](https://github.com/ankitgit01/ev-charge-optimization-agents.git)
    cd ev-dynamic-pricing-ai
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    Ensure you have Python installed, then run:
    pip install -r requirements.txt
 
-3. **Obtain API Credentials:**
+4. **Obtain API Credentials:**
    Register at ev.caltech.edu/register to get a free ACN-Data API token.
 
-4. **Execute the Notebook:**
+5. **Execute the Notebook:**
    Open EV_Dynamic_Pricing_Agentic_AI.ipynb in Jupyter Notebook or Google Colab. When prompted in the early cells, paste your ACN-Data API token. Run all cells sequentially. 
 
-5. **View Outputs:**
+6. **View Outputs:**
    The final cells will generate a comprehensive summary dashboard and export CSV files containing model scores, pricing outcomes, and episode logs to the submission_outputs directory.
 
 ## Key Results
